@@ -2,6 +2,7 @@
 layout: post
 title: "Stanford Compiler Course - Coursera"
 description: "Note for online compiler course"
+markdown: kramdown
 category: 
 tags: []
 ---
