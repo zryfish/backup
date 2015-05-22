@@ -4,6 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-nothing special
+Nothing special
 
 zw0948(at)gmail.com
