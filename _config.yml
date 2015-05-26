@@ -19,7 +19,7 @@ theme:
 
   # Icons
   rss: true 
-  email_address: zw0948@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
